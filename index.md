@@ -28,7 +28,7 @@ Please address all questions regarding the class to [staff@cs171.org](mailto:sta
 [Ibrahim Alain](http://alainibrahim.com)
 [Johanna Beyer](http://people.seas.harvard.edu/~jbeyer/) - Postdoctoral Fellow, Visual Computing Group
 [Gaurav Bharaj](http://people.seas.harvard.edu/~gaurav/) - PhD Student, Visual Computing Group
-[David Chouinard](http://davidchouinard.com/)
+[David Chouinard](http://davidchouinard.com/) - Product designer & full stack developer, independent
 Keving Ge Sun 
 [Romain Vuillemot](http://romain.vuillemot.net/) - Data Visualization Fellow, Center for International Development
 Megan Quintero
